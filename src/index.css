@@ -1,0 +1,7 @@
+/* You can add global CSS styles here if needed.
+   For this project, Tailwind CSS is primarily used via CDN in index.html. */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
